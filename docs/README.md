@@ -135,5 +135,7 @@ Effectue plusieurs mouvements, tu vas voir que la biche devrait finir par traver
 
 > Nous ne chercherons pas à implémenter le fait qu'Héraclès capture effectivement la Biche car cela demanderait pas mal d'efforts supplémentaires, mais comme toujours, si tu souhaites essayer, n'hésite pas !
 
-Et bravo pour ta ténacité 👏, tu es arrivé au bout de cet atelier 🙌 !
-{: .text-center }
+
+**Dernier épisode**  
+[Les écuries d’Augias](https://wildcodeschool.github.io/workshop-php-poo-heracles-labour-6/)
+{: .text-center :}
